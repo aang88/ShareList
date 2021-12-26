@@ -1,0 +1,14 @@
+@import 'https://fonts.googleapis.com/css?family=Late:100';
+
+h1{
+    color:red;
+}
+.landing{
+    width:100%;
+    height:100vh;
+    color:#fff;
+    background:linear-gradient(-45deg, #EE7752,#E73C7E,#23A6D5,#23D5AB);
+    background-size: 400%,400%;
+    position:relative
+}
+
